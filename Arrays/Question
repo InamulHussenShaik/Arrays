@@ -1,0 +1,28 @@
+Write a java program to create an integer array by taking length as input from the user.
+take the contents of the array from user and store the contents in the array. Display contents 
+of the array on to the console. 
+
+
+Write a java program to create an integer array by taking length as input from the user.
+take the contents of the array from user and store the contents in the array. Display contents 
+of the array by incrementing each value present in the array by 5 on to the console. 
+
+
+
+Merge elements of 2 arrays into a 3rd array:
+Problem: We have two arrays, and we want to combine them into a third array.
+Approach: We will create a third array that has a size equal to the sum of the sizes
+of the first two arrays. We'll then copy all elements from the first array to the 
+third array, and then continue where we left off by copying all elements from the 
+second array to the third array.
+
+
+Calculate the sum of corresponding elements of an array and store in a 3rd array:
+Problem: We're given two arrays of the same size, and we want to create a third array such that each element in this array is the sum of the corresponding elements in the first two arrays.
+Approach: We will create a third array that is the same size as the first two arrays. We'll then go through a for loop where we add the corresponding elements of the first two arrays and store
+the result in the third array.
+
+
+
+Write a java program to replace all the negative numbers in an integer array 
+to 0(zero).
